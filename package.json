@@ -1,0 +1,28 @@
+{
+  "name": "Crud_Livro",
+  "version": "1.0.0",
+  "description": "Projeto Node.js UC de Sistemas Distribuídos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js --exec node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiago820131468/Crud_Livro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiago820131468/Crud_Livro/issues"
+  },
+  "homepage": "https://github.com/Thiago820131468/Crud_Livro#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
